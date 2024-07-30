@@ -17,6 +17,7 @@ public class L_TheBrothers {
           System.out.println("ARE Brothers");
       }else System.out.println("NOT");
 
+      if (firstPersonFatherName.equals(secondPersonFatherName)) System.out.println("Are Brothers");
 
 
 
