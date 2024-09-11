@@ -11,9 +11,5 @@ public class G_SumFrom1ToN {
         long result = num * (num + 1) / 2;
         System.out.println(result);
 
-        // long result =0;
-        /*for (int i=0 ; i<=N ; i++){
-                result+=i;
-        }*/
     }
 }
